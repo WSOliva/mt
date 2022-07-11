@@ -1,3 +1,3 @@
 # mt
-Testes de deply com a biblioteca streamlit
+Testes de deploy com a biblioteca streamlit.
 https://streamlit.io/
